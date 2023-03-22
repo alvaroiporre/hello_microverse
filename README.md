@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>Hello Microverse</b></h1>
+  <h1><b>Hello Microverse Project</b></h1>
 
 </div>
 
@@ -27,9 +27,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 **[Hello-Microverse-Project]** <a name="about-project"></a>
 
-> **[Hello-Microverse]** is the inicial project to master all of the tools and best practices learned in the first Week as a Micronaut.
+> **Hello-Microverse** is the inicial project to master all of the tools and best practices learned in the first Week as a Micronaut.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -67,11 +67,18 @@ Clone this repository to your desired folder:
 Ready for use it.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 👥 Authors <a name="authors"></a>
->👤 **Alvaro Iporre**
+
+
+>👤 Alvaro Iporre
+
 - GitHub: [@alvaroiporre](https://https://github.com/alvaroiporre)
 - Twitter: [@alvaro.iporre](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alvaro-iporre-martiez-501533124/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 📝 License <a name="license"></a>
+
 This project is [MIT](./LICENSE) licensed.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
